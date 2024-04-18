@@ -35,6 +35,7 @@ public class Vehicle {
      */
     private int speed;
 
+    
     /**
      * Constructor consists of.
      *
